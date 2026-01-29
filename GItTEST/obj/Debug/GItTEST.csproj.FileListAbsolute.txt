@@ -1,0 +1,7 @@
+C:\GIT_DEMO\GItTEST\GItTEST\bin\Debug\GItTEST.exe.config
+C:\GIT_DEMO\GItTEST\GItTEST\bin\Debug\GItTEST.exe
+C:\GIT_DEMO\GItTEST\GItTEST\bin\Debug\GItTEST.pdb
+C:\GIT_DEMO\GItTEST\GItTEST\obj\Debug\GItTEST.csprojAssemblyReference.cache
+C:\GIT_DEMO\GItTEST\GItTEST\obj\Debug\GItTEST.csproj.CoreCompileInputs.cache
+C:\GIT_DEMO\GItTEST\GItTEST\obj\Debug\GItTEST.exe
+C:\GIT_DEMO\GItTEST\GItTEST\obj\Debug\GItTEST.pdb

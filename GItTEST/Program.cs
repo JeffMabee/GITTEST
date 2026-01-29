@@ -1,0 +1,19 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace GItTEST
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+
+            Console.Write("TEST");
+            Console.ReadLine();
+
+        }
+    }
+}

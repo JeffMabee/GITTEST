@@ -15,6 +15,9 @@ namespace GItTEST
             Console.WriteLine("Added another great line");
 
             Console.WriteLine("LAST CHANGE");
+
+            Console.WriteLine("THIS IS IN DEV AND NOT IN MAIN");
+
             Console.Write("PUSH THEN ENTER KEY NOW");
             Console.ReadLine();
 

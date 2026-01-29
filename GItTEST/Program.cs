@@ -11,7 +11,9 @@ namespace GItTEST
         static void Main(string[] args)
         {
 
-            Console.Write("TEST");
+            Console.WriteLine("TEST");
+            Console.WriteLine("Added another great line");
+            Console.Write("PUSH THEN ENTER KEY NOW");
             Console.ReadLine();
 
         }
